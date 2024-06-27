@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminPanels\adminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPanels\ad_am.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPanels\ad_cm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPanels\ad_fm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPanels\ad_profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPanels\ad_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPanels\ad_um.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPanels\ad_booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employees\empPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employees\empSal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employees\emp_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employees\emp_sell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employees\emp_todo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employees\emp_viewFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubUtills\ModalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubUtills\ToastMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubUtills\VerifyOTPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Panels\userPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\signupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\splashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Panels\userPanel_Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Panels\userPanel_booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Panels\userPanel_booking_history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Panels\userPanel_profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Panels\userPanel_feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
