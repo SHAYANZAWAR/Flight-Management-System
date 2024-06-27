@@ -48,7 +48,7 @@ Screen Capture Using **[ShareX](https://getsharex.com/)**
 <hr></hr>
 </br>
 
-**Visual Studio** is automatically going to
+**Visual Studio** is automatically going 
 to manage all of the listed dependencies
 </br>
 </br>
