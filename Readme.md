@@ -41,6 +41,7 @@ Some of the **features** of the projects are:
 Set **FMS** project as the ***Starting Project***.
 </br>
 </br>
+***[images/SetAsStartup.gif]***
 ![Set FMS as startup project](images/SetAsStartup.gif)
 <br/>
 Screen Capture Using **[ShareX](https://getsharex.com/)**
